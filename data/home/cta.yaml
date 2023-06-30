@@ -6,4 +6,4 @@ content:
   image: "images/get_connecting.png"
   button:
     label: "Get Connecting"
-    url: "#"
+    url: "/real"

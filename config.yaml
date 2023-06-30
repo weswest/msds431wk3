@@ -22,16 +22,16 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    dribbble: "/real"
+    instagram: "/real"
+    facebook: "/real"
+    twitter: "/real"
 
   location:
     - "431 MSDS Drive, Northwestern Campus, Evanston IL 60208"
 
   contact:
-    - "jmwest AT gmail.com"
+    - "wes AT gmail.com"
     - "555.555.5555"
 
   copyright: "This Is Satire and Was Built for a Northwestern Data Science Class"
@@ -71,7 +71,7 @@ menus:
       url: "/"
       weight: 1
 
-    - name: "How we work"
+    - name: "What is Going On"
       url: "/real"
       weight: 2
 

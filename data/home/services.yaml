@@ -10,18 +10,18 @@ content:
       text: "Brace yourself for an awe-inspiring journey. Our quantum-powered inspiration engine taps into the collective consciousness of visionaries throughout history, channeling their brilliance directly into your fingertips."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/real"
 
     - image: "images/thought_distillation_matrix.png"
       title: "Thought Distillation Matrix"
       text: "Witness the magic of thought distillation, where complex ideas are transformed into crystal-clear, easily digestible nuggets of wisdom. Our cutting-edge algorithms extract the essence of knowledge, making it effortlessly comprehensible."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/real"
 
     - image: "images/infinite_synchronicity_network.png"
       title: "Infinite Synchronicity Network"
       text: "Enter the realm of infinite synchronicity, where ideas collide, collaborate, and ignite transformative innovation. Our network facilitates serendipitous connections, unveiling extraordinary insights and propelling your thinking beyond the imaginable."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/real"
