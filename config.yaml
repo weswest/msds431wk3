@@ -2,15 +2,15 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Cognify431"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Cognify431"
+  description: "We unlock the connections of your creativity through artificial intelligence."
   images: 
     - "images/hero-image.png"
 
