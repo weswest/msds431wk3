@@ -8,11 +8,11 @@ content:
     text: "Unlock the hidden gems within your knowledge universe. Our advanced algorithms automatically detect meaningful links between your notes, transforming them into a rich interconnected web of insights. Say goodbye to manual linking and embrace the power of AI-driven connections that spark creativity and foster deep understanding."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "This is All Fake"
+        url: "/real"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Click to Learn More"
+        url: "/real"
 
   - image: "images/intuitive_markdown_magic.png"
     pretitle: "Intuitive Markdown Magic"
@@ -20,11 +20,11 @@ content:
     text: "No need to be a Markdown master! Our intuitive editor brings your ideas to life with stunning visual appeal. Seamlessly format and style your notes using our magic wand of simplicity. From headings to bullet points, code snippets to images, effortlessly create professional-looking documents without any technical hassle."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "This is All Fake"
+        url: "/real"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Click to Learn More"
+        url: "/real"
 
   - image: "images/smart_recommendation_engine.png"
     pretitle: "Smart Recommendation Engine"
@@ -32,8 +32,8 @@ content:
     text: "Our knowledge base product includes a powerful Smart Recommendation Engine that leverages advanced machine learning algorithms to provide personalized suggestions and connections between your ideas. By analyzing the content of your notes, identifying patterns, and understanding your preferences, our recommendation engine helps you uncover valuable insights, discover hidden relationships, and explore new ideas. It intelligently suggests relevant notes, links, and related concepts, allowing you to effortlessly navigate your knowledge base and make new connections. With our Smart Recommendation Engine, you'll experience a new level of efficiency and serendipity in your knowledge exploration journey."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "This is All Fake"
+        url: "/real"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Click to Learn More"
+        url: "/real"
