@@ -28,21 +28,20 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "431 MSDS Drive, Northwestern Campus, Evanston IL 60208"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "jmwest AT gmail.com"
+    - "555.555.5555"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "This Is Satire and Was Built for a Northwestern Data Science Class"
 
   postProcess: false
 
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "How we work"
@@ -50,11 +49,11 @@ menus:
       weight: 2
 
     - name: "Our team"
-      url: "/#"
+      url: "/bios"
       weight: 3
 
     - name: "Pricing"
-      url: "/#"
+      url: "/pricing"
       weight: 4
 
     - name: "Blog"
@@ -77,11 +76,11 @@ menus:
       weight: 2
 
     - name: "Our team"
-      url: "/#"
+      url: "/bios"
       weight: 3
 
     - name: "Pricing"
-      url: "/#"
+      url: "/pricing"
       weight: 4
 
     - name: "Blog"
