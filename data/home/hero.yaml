@@ -6,11 +6,11 @@ content:
   text: "Discover the ultimate knowledge base solution that will revolutionize the way you organize and connect your thoughts. Our cutting-edge platform combines the latest advancements in AI technology, intuitive user experience, and mind-mapping capabilities to supercharge your creativity and boost your productivity to unparalleled heights."
 
   buttonPrimary:
-    label: "How we work"
+    label: "This is All Fake"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Click Here to Learn More"
     url: ""
 
 # TODO: Update button titles and links

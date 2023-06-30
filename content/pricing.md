@@ -1,5 +1,5 @@
 +++
-title = "Pricing"
+title = "pricing"
 description = "Why Generate Ideas Yourself When You Can Pay A Computer to Generate Them For You?"
 date = "2023-06-29"
 aliases = ["pricing", "price"]
@@ -12,9 +12,9 @@ Choose the perfect plan to embark on your transformative knowledge journey:
 
 | Plan     | Features                                | Price       |
 | -------- | --------------------------------------- | ----------- |
-| Silver   | Hyperlinked Insights, Markdown Magic     | $9.99/mo    |
-| Gold     | Silver features + Thought Distillation Matrix | $19.99/mo   |
-| Platinum | Gold features + Infinite Synchronicity Network | $29.99/mo   |
+| Silver   | Hyperlinked Insights, Markdown Magic     | $999/mo    |
+| Gold     | Silver features + Thought Distillation Matrix | $1999/mo   |
+| Platinum | Gold features + Infinite Synchronicity Network | Email for Pricing   |
 
 .
 
