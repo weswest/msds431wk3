@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Unleash the **power** of your **ideas**"
+  text: "Discover the ultimate knowledge base solution that will revolutionize the way you organize and connect your thoughts. Our cutting-edge platform combines the latest advancements in AI technology, intuitive user experience, and mind-mapping capabilities to supercharge your creativity and boost your productivity to unparalleled heights."
 
   buttonPrimary:
     label: "How we work"
@@ -13,3 +13,4 @@ content:
     label: "Let's talk"
     url: ""
 
+# TODO: Update button titles and links

@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "What We Offer"
+  text: "Welcome to our world of limitless possibilities, where innovation meets serendipity. Our offering is designed to empower you to break free from the constraints of traditional note-taking. Explore the realms of boundless creativity and elevate your thinking to unprecedented heights."
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/quantum_inspiration_engine.png"
+      title: "Quantum Inspiration Engine"
+      text: "Brace yourself for an awe-inspiring journey. Our quantum-powered inspiration engine taps into the collective consciousness of visionaries throughout history, channeling their brilliance directly into your fingertips."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/thought_distillation_matrix.png"
+      title: "Thought Distillation Matrix"
+      text: "Witness the magic of thought distillation, where complex ideas are transformed into crystal-clear, easily digestible nuggets of wisdom. Our cutting-edge algorithms extract the essence of knowledge, making it effortlessly comprehensible."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/infinite_synchronicity_network.png"
+      title: "Infinite Synchronicity Network"
+      text: "Enter the realm of infinite synchronicity, where ideas collide, collaborate, and ignite transformative innovation. Our network facilitates serendipitous connections, unveiling extraordinary insights and propelling your thinking beyond the imaginable."
       button:
         label: "Learn more"
         url: "#"
