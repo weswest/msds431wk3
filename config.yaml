@@ -44,8 +44,8 @@ menus:
       url: "/"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "What is Going On"
+      url: "/real"
       weight: 2
 
     - name: "Our team"
@@ -62,17 +62,17 @@ menus:
 
   buttons:
     - name: "Book a call"
-      url: "/#"
+      url: "/real"
       weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "How we work"
-      url: "/#"
+      url: "/real"
       weight: 2
 
     - name: "Our team"
