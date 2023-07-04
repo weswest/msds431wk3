@@ -8,13 +8,28 @@ author = "Hugo Authors"
 
 # This is for a Class Project
 
-This website was created as an assignment for the Northwestern Masters in Data Science program, for the 431 - Intro to Go class.  More details can be found TKTK HERE.
+This website was created as an assignment for the Northwestern Masters in Data Science program, for the 431 - Intro to Go class.  More details can be found [here](https://msdsgo.netlify.app/data-engineering-with-go/)
+.
 
 ### Assignment Prompt
 
 *Personal knowledge base products tap into a need we all have: to organize our ideas over time. We read something and make a note of it. We read something else and make another note. We see that things are related and make a note of that as well. At one time or another, everyone has used a Google KeepLinks to an external site. or Microsoft OneNoteLinks to an external site.. Memo-makers and note-keepers opened the door to personal knowledge bases. ObsidianLinks to an external site. walked through that door, moving further along. They see that the power isn't in the individual notes, but in the links between the notes. To foster creativity and productivity, we need a kind of mind-map or graph database of ideas. But Obsidian, as currently defined, has limited potential. What user in the general public knows Markdown, which is needed for formatting the Obsidian notes? And why ask the user to manually enter links between ideas when AI can do it automatically? We can do better than Obsidian, and we have the technical savvy to pull it off.*
 
-ASSIGNMENT TKTKTKTK
+The investors seemed intrigued by the initial the product concept, but they were reluctant to fund the startup until they heard that the principals were Go programming experts. The utility of Go for implementing complex technology solutions cannot be denied. (Note the success stories at https://go.dev/Links to an external site..) 
+
+The founders have an initial investor group on-board, but they need additional investors before beginning what will likely be a year-long task of developing the first version of their personal knowledge base product. They decide to use their Go programming skills to build a company website. It can be a static website initially, something to promote the brand name and product idea.
+
+Assignment Requirements 
+
+Suppose you are a founder of the startup. You need to implement a website using HugoLinks to an external site., the Go static site generator. Methods for doing this are described on the Building WebsitesLinks to an external site. page of the Learning Go for Data Science website. 
+
+* Define a name for your company.
+* Pick a Hugo themeLinks to an external site. for the company website (each student should select a unique theme)
+* Generate initial pages describing your plans for the personal knowledge base product.
+* Using Markdown, Go templating, and git, create and revise the content pages for the website.
+* Complete the Hugo code for the website and run the code locally using hugo serve.
+* Upload your local git repository to GitHub.
+* Host your website for free on Netlify or GitHub Pages.
 
 ### An Actual Approach
 
